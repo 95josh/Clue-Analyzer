@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clue Analyzer", "Clue Analyzer\Clue Analyzer.csproj", "{AB0E5EE8-1E2B-49B1-AAD6-58EE53239CE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0E5EE8-1E2B-49B1-AAD6-58EE53239CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0E5EE8-1E2B-49B1-AAD6-58EE53239CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0E5EE8-1E2B-49B1-AAD6-58EE53239CE3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AB0E5EE8-1E2B-49B1-AAD6-58EE53239CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0E5EE8-1E2B-49B1-AAD6-58EE53239CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0E5EE8-1E2B-49B1-AAD6-58EE53239CE3}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99607C3E-1BB2-41D8-ABBA-5A9D85B86CE5}
+	EndGlobalSection
+EndGlobal
