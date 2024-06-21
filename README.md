@@ -5,6 +5,7 @@ Why a program to help you play a game? I built Clue Analyzer because I personall
 This program was primarily developed locally, so 
 
 CREDITS: 
+
 Check, X, and -, and reload icons were obtained from https://fonts.google.com/icons
 
 Clue Analyzer was made by Joshua Stahl for his Final project for his C# Level 2 class CIS262AD at South Mountain Community College.
