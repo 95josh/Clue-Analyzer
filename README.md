@@ -55,5 +55,5 @@ Note: This program was primarily developed locally, so any version prior to V1.1
 
 Check, X, and -, and reload icons were obtained from https://fonts.google.com/icons
 
-Clue Analyzer was made by Joshua Stahl for his Final project for his C# Level 2 class CIS262AD at South Mountain Community College.
+Clue Analyzer was made by Joshua Stahl for his Final project for his C# Level 2 class (CIS262AD) at South Mountain Community College.
 His professor was Stephen Hustedde.
