@@ -1,4 +1,4 @@
-# Clue-Analyzer
+# Clue Analyzer
 
 
 ## Why this program?
